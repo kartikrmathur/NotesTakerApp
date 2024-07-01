@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#616C6F</color>
+
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7B1FA2</color>
+
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#80CBC4</color>
+
+    <color name="color1">#E8290B</color>
+    <color name="color2">#EAF0F1</color>
+    <color name="color3">#6ab04c</color>
+    <color name="color4">#F4C724</color>
+    <color name="color5">#EA7773</color>
+
+    <!--theme colors-->
+    <color name="owl_yellow_200">#ffeb46</color>
+    <color name="owl_yellow_400">#ffc000</color>
+    <color name="owl_yellow_500">#ffde03</color>
+    <color name="owl_yellow_dark_primary">#242316</color>
+
+    <color name="owl_blue_200">#91a4fc</color>
+    <color name="owl_blue_700">#0336ff</color>
+    <color name="owl_blue_800">#0035c9</color>
+    <color name="owl_blue_dark_primary">#1c1d24</color>
+
+    <color name="owl_pink_200">#ff7597</color>
+    <color name="owl_pink_500">#ff0266</color>
+    <color name="owl_pink_600">#d8004d</color>
+    <color name="owl_pink_dark_primary">#24191c</color>
+
+    <!--background protection for nav-bar, varied on Q+-->
+    <color name="immersive_sys_ui">#33000000</color>
+    <color name="nav_bar">@color/immersive_sys_ui</color>
+</resources>
